@@ -5,10 +5,8 @@
 # descomprimidas en carpetas según husos, por ejemplo:
 # ./BTN25/Guipuzkoa/HUSO30/44011/
 # 
-# Santiago Crespo y Matías Taborda 2016 Licencia a elegir:
-# WTFL http://www.wtfpl.net/txt/copying/
-# o
-# CC0 https://creativecommons.org/publicdomain/zero/1.0/
+# Santiago Crespo y Matías Taborda 2016
+# Licencia: 0BSD https://opensource.org/license/0bsd
 #
 # Es necesario tener la carpeta translations en el mismo sitio que btn252osm.sh
 
